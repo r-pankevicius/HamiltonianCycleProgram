@@ -6,3 +6,5 @@ See https://webdocs.cs.ualberta.ca/~joe/Theses/HCarchive/main.html
 Source code: https://webdocs.cs.ualberta.ca/~joe/Theses/HCarchive/prog.tar.gz
 
 This product includes software developed by the University of Alberta, Edmonton.
+
+Original source code is preserved at [original](./tree/original) branch.
