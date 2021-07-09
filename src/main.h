@@ -121,29 +121,6 @@
 #include "tester.h"		/* needs to be near the top */
 #include "options.h"	/* must be below other module includes */
 
-
-/************************************************************/
-/* warning-avoidance function declarations */
-/************************************************************/
-
-int fprintf();
-int fscanf();
-int fflush();
-int printf();
-int sscanf();
-int scanf();
-/* char toupper(); */
-time_t time();
-/* void fclose(); */
-void srand48();
-long lrand48();
-long clock();
-void rewind();
-int system();
-/* extern void srandom(int seed);
-extern long random(); */
-extern  int getrusage(int who, struct rusage *rusage);
-
 /* defines for print_info_summary() function */
 #define PRINT_INFO_HEADER 	0
 #define PRINT_INFO_ALL 		1
