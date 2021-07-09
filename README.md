@@ -9,7 +9,7 @@ This product includes software developed by the University of Alberta, Edmonton.
 
 Original source code is preserved at [original](./tree/original) branch.
 
-The license/terms of use is in file [LICENSE.html](./LICENSE.html).
+The license/terms of use is in file [LICENSE.html](./LICENSE.html) or see it [on Web](https://webdocs.cs.ualberta.ca/~joe/Theses/HCarchive/conditions.html).
 
 # Compiling
 On Linux:
